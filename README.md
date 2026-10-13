@@ -142,4 +142,4 @@ Agri-Bot-Simulation/
 
 ## Author
 
-Ananya Reddy
+Tarun Reddy
